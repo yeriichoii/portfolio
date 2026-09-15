@@ -7,7 +7,7 @@ The three projects below were built during Microsoft AI School, an intensive Azu
 
 **Research interest** — sport consumer behavior and health behavior change, studied with sensors rather than self-report: wearable and on-device measurement of everyday movement, and real-time intervention built on top of it.
 
-📫 yeri17choi@gmail.com · [GitHub](https://github.com/yeriichoii) · [LinkedIn](www.linkedin.com/in/yerichoi2003)
+📫 yeri17choi@gmail.com · [GitHub](https://github.com/yeriichoii) · [LinkedIn](https://www.linkedin.com/in/yerichoi2003/)
 
 ---
 
