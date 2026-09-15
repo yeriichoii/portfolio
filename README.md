@@ -56,7 +56,7 @@ The three projects below were built during Microsoft AI School, an intensive Azu
 > Identifies individual animals from existing barn CCTV and builds a per-individual behavior timeline that flags deviation from that animal's own baseline.
 
 ![Muzzle-based individual identification](docs/media/cowow-1.png)
-![Operator-defined feeder zone](docs/media/cowow-2.png)
+![Operator-defined feeder zone](docs/media/cowow-2.jpg)
 
 **What it does** — Turns CCTV a farm already owns into individual-level health monitoring, with no per-animal wearable sensor. Animals are enrolled from both nose-print (muzzle) photos and ear-tag numbers, then re-identified at feeder and water chokepoints by running muzzle matching and ear-tag OCR together, so the two paths cross-check each other rather than resting on one biometric. The chokepoints are drawn by the operator on their own camera view rather than inferred, which is what lets the system work in a barn of any layout without retraining anything. Every prior tracking observation is then retroactively bound to that animal, so a continuous per-individual time series can be built. When identification confidence is low the system withholds an ID instead of guessing — a mislabeled observation would corrupt two animals' baselines at once.
 
