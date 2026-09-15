@@ -1,6 +1,5 @@
 # Yeri Choi — Selected Projects
 
-Incoming M.S. student, Sport Management, University of Florida (Spring 2027).
 B.S. in Sports Sciences, with coursework in sport marketing and consumer psychology. I build systems that sense everyday behavior and act on it in real time — on-device inference, cloud pipelines, and the evaluation harnesses that tell you when they fail.
 
 The three projects below were built during Microsoft AI School, an intensive Azure-based AI development program. I led all three teams.
